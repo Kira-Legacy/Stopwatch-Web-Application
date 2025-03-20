@@ -16,7 +16,7 @@ body {
     background-color: #fff;
     padding: 30px;
     border: #000000 5px solid;
-    border-radius: 15px;
+    border-radius: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
 }
@@ -36,7 +36,7 @@ body {
 }
 
 #startStop {
-    background-color: #009305;
+    background-color: #00a105;
     color: white;
 }
 
