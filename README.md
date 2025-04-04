@@ -6,6 +6,6 @@ Stopwatch website application to record the time, take laps, and restart. The we
 
 - Disclaimer⚠️: The web application is not responsive yet.
 
-- You can get the image of the website down below :)
+You can get the image of the website down below :)
 
 <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Stopwatch-web-app.png" alt = "Stopwatch">
